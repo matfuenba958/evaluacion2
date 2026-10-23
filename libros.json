@@ -1,0 +1,322 @@
+{
+  "libros": [
+    {
+      "id": 5,
+      "titulo": "Guía de Estudio para la Certificación CCNA Security V2.0",
+      "autor": "MatiasFuentes_VicenteRios",
+      "isbn": "218642187"
+    },
+    {
+      "id": 6,
+      "titulo": "Redes Cisco. CCNA Routing y Switching.",
+      "autor": "MatiasFuentes_VicenteRios",
+      "isbn": "218642187"
+    },
+    {
+      "id": 7,
+      "titulo": "Redes Avanzadas 1. DEVNET.",
+      "autor": "MatiasFuentes_VicenteRios",
+      "isbn": "123456789"
+    },
+    {
+      "id": 8,
+      "titulo": "Libro rmbrlj",
+      "autor": "Autor tghkn",
+      "isbn": "110653583"
+    },
+    {
+      "id": 9,
+      "titulo": "Libro gkjfeh",
+      "autor": "Autor izpgj",
+      "isbn": "537384744"
+    },
+    {
+      "id": 10,
+      "titulo": "Libro lgfvoc",
+      "autor": "Autor zyjse",
+      "isbn": "014661863"
+    },
+    {
+      "id": 11,
+      "titulo": "Libro kycdsk",
+      "autor": "Autor udrkx",
+      "isbn": "476714408"
+    },
+    {
+      "id": 12,
+      "titulo": "Libro tidhog",
+      "autor": "Autor roebx",
+      "isbn": "158031700"
+    },
+    {
+      "id": 13,
+      "titulo": "Libro axkhxs",
+      "autor": "Autor qcmjb",
+      "isbn": "775361695"
+    },
+    {
+      "id": 14,
+      "titulo": "Libro xqtuzk",
+      "autor": "Autor yoemi",
+      "isbn": "095135736"
+    },
+    {
+      "id": 15,
+      "titulo": "Libro wziqis",
+      "autor": "Autor rqswj",
+      "isbn": "357077583"
+    },
+    {
+      "id": 16,
+      "titulo": "Libro yzwhfj",
+      "autor": "Autor fjeke",
+      "isbn": "693664150"
+    },
+    {
+      "id": 17,
+      "titulo": "Libro kunkyk",
+      "autor": "Autor hxvca",
+      "isbn": "672377168"
+    },
+    {
+      "id": 18,
+      "titulo": "Libro yddjpm",
+      "autor": "Autor bbqwn",
+      "isbn": "853481489"
+    },
+    {
+      "id": 19,
+      "titulo": "Libro xkboos",
+      "autor": "Autor jutvs",
+      "isbn": "509891935"
+    },
+    {
+      "id": 20,
+      "titulo": "Libro usbwgb",
+      "autor": "Autor nmsiq",
+      "isbn": "548709284"
+    },
+    {
+      "id": 21,
+      "titulo": "Libro cmaomh",
+      "autor": "Autor axbxy",
+      "isbn": "254523329"
+    },
+    {
+      "id": 22,
+      "titulo": "Libro aanmtn",
+      "autor": "Autor gpuvr",
+      "isbn": "541683534"
+    },
+    {
+      "id": 23,
+      "titulo": "Libro wqjscw",
+      "autor": "Autor wnchf",
+      "isbn": "374337242"
+    },
+    {
+      "id": 24,
+      "titulo": "Libro qzkhmk",
+      "autor": "Autor hgnth",
+      "isbn": "810952918"
+    },
+    {
+      "id": 25,
+      "titulo": "Libro rwfrzw",
+      "autor": "Autor gsnls",
+      "isbn": "339892164"
+    },
+    {
+      "id": 26,
+      "titulo": "Libro hbteuv",
+      "autor": "Autor elndm",
+      "isbn": "751029134"
+    },
+    {
+      "id": 27,
+      "titulo": "Libro vutqdu",
+      "autor": "Autor hqrlx",
+      "isbn": "844896009"
+    },
+    {
+      "id": 28,
+      "titulo": "Libro dgfpzn",
+      "autor": "Autor mhcyr",
+      "isbn": "005663720"
+    },
+    {
+      "id": 29,
+      "titulo": "Libro fnetgu",
+      "autor": "Autor ikvpj",
+      "isbn": "621306062"
+    },
+    {
+      "id": 30,
+      "titulo": "Libro qwxeib",
+      "autor": "Autor odwwv",
+      "isbn": "652607335"
+    },
+    {
+      "id": 31,
+      "titulo": "Libro xihfeq",
+      "autor": "Autor azndu",
+      "isbn": "879221054"
+    },
+    {
+      "id": 32,
+      "titulo": "Libro lhgwwv",
+      "autor": "Autor fjvbo",
+      "isbn": "028293649"
+    },
+    {
+      "id": 33,
+      "titulo": "Libro igfiki",
+      "autor": "Autor aidrw",
+      "isbn": "987378274"
+    },
+    {
+      "id": 34,
+      "titulo": "Libro chmhzd",
+      "autor": "Autor euqmk",
+      "isbn": "539234978"
+    },
+    {
+      "id": 35,
+      "titulo": "Libro lgchgz",
+      "autor": "Autor arlyk",
+      "isbn": "120207443"
+    },
+    {
+      "id": 36,
+      "titulo": "Libro tfyfxg",
+      "autor": "Autor epoye",
+      "isbn": "220338511"
+    },
+    {
+      "id": 37,
+      "titulo": "Libro njtfye",
+      "autor": "Autor sjbgl",
+      "isbn": "200379503"
+    },
+    {
+      "id": 38,
+      "titulo": "Libro satgtt",
+      "autor": "Autor qoyut",
+      "isbn": "838337868"
+    },
+    {
+      "id": 39,
+      "titulo": "Libro elhojm",
+      "autor": "Autor blxjh",
+      "isbn": "261758551"
+    },
+    {
+      "id": 40,
+      "titulo": "Libro suwbmu",
+      "autor": "Autor jzvwg",
+      "isbn": "414073803"
+    },
+    {
+      "id": 41,
+      "titulo": "Libro nppdpw",
+      "autor": "Autor mzvpr",
+      "isbn": "494442978"
+    },
+    {
+      "id": 42,
+      "titulo": "Libro ombewv",
+      "autor": "Autor oobly",
+      "isbn": "756061828"
+    },
+    {
+      "id": 43,
+      "titulo": "Libro hhbbse",
+      "autor": "Autor cxdfj",
+      "isbn": "159400379"
+    },
+    {
+      "id": 44,
+      "titulo": "Libro txovvs",
+      "autor": "Autor tjjmb",
+      "isbn": "654044273"
+    },
+    {
+      "id": 45,
+      "titulo": "Libro jngfvf",
+      "autor": "Autor xyjkf",
+      "isbn": "394702259"
+    },
+    {
+      "id": 46,
+      "titulo": "Libro wocwzp",
+      "autor": "Autor namqm",
+      "isbn": "674363278"
+    },
+    {
+      "id": 47,
+      "titulo": "Libro fugpfu",
+      "autor": "Autor shugc",
+      "isbn": "506961655"
+    },
+    {
+      "id": 48,
+      "titulo": "Libro jbrulk",
+      "autor": "Autor pmasx",
+      "isbn": "690015205"
+    },
+    {
+      "id": 49,
+      "titulo": "Libro rfvtvj",
+      "autor": "Autor sjbdp",
+      "isbn": "357700191"
+    },
+    {
+      "id": 50,
+      "titulo": "Libro kohlde",
+      "autor": "Autor sgaxy",
+      "isbn": "072881521"
+    },
+    {
+      "id": 51,
+      "titulo": "Libro dqaohu",
+      "autor": "Autor sxtcl",
+      "isbn": "882560522"
+    },
+    {
+      "id": 52,
+      "titulo": "Libro spksrq",
+      "autor": "Autor wffhd",
+      "isbn": "064086975"
+    },
+    {
+      "id": 53,
+      "titulo": "Libro yzqtvj",
+      "autor": "Autor scxoy",
+      "isbn": "361316817"
+    },
+    {
+      "id": 54,
+      "titulo": "Libro szopba",
+      "autor": "Autor uliap",
+      "isbn": "145578787"
+    },
+    {
+      "id": 55,
+      "titulo": "Libro gmgzcv",
+      "autor": "Autor mchuq",
+      "isbn": "435372724"
+    },
+    {
+      "id": 56,
+      "titulo": "Libro gemjjl",
+      "autor": "Autor xkbog",
+      "isbn": "723524916"
+    },
+    {
+      "id": 57,
+      "titulo": "Libro xdecfu",
+      "autor": "Autor aawta",
+      "isbn": "693926417"
+    }
+  ]
+}
